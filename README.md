@@ -1,5 +1,3 @@
-![Uploading Mars__Moon_Mysteries.png…]()
-
 
 # Role 2: 3D Developer
 
