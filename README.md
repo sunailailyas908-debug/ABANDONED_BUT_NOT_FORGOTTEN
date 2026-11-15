@@ -1,3 +1,5 @@
+
+https://assets.spaceappschallenge.org/media/original_images/Mars__Moon_Mysteries.png
 # Role 2: 3D Developer
 
 Everything for the `ModelViewer` task lives in this folder, laid out exactly like the deliverables on the team sheet, so merging means copying folders:
